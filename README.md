@@ -1,4 +1,4 @@
-## E-Commerce Complete App - Flutter UI
+## E-Commerce Complete App - Flutter UI 
 
 In the first part of the complete e-commerce app, I show you how you can create a nice clean onboarding screen for your e-commerce app that can run both Android and iOS devices because it builds with flutter. Then, I built a Sign in, Forgot Password screen with a custom error indicator. After that Sign Up and OTP screen. The last is the most exciting one  because we built our home page,  we worked on our product page, and last but not least we built an order screen which has some cool stuff like swipe to remove. At the end, we build a profile screen. 
 
